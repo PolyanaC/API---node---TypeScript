@@ -1,0 +1,9 @@
+{
+	"name": "Casa das meninas dos olhos d Deus",
+	"latitude": -15.8582809,
+	"longitude": -47.9639651,
+	"about": "Lar das crianças de Brasília",
+	"instructions": "Venha visitar",
+	"opening_hours": "Das 8h até 18h",
+	"open_on_weekends": true
+}
